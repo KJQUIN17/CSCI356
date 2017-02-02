@@ -1,0 +1,10 @@
+Kyle Quinn
+
+Collaboration Log
+Project 0
+CSCI 356
+February 2nd, 2017
+
+
+
+I worked entirely on my own. I consulted https://docs.python.org/2/reference/
